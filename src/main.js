@@ -5,6 +5,7 @@ import router from './router'
 import store from './store'
 import ElementUI from 'element-ui'
 import './styles.scss'
+import './mock' // 引入mock文件
 
 Vue.use(ElementUI)
 
